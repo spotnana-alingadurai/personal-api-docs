@@ -40,6 +40,10 @@ After you start the development server, navigate to the app and follow the instr
 Redocly commands can be found [here](https://redocly.com/docs/cli/commands/).
 
 This is another line.
+<<<<<<< HEAD
 Adding final line.
 
 Adding one last line based on the reviewer comment.
+
+Trying out the conflict 2nd time.
+Resolved the conflict for the second time
