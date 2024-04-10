@@ -33,7 +33,11 @@ Read the [online documentation](https://redoc.ly/docs/developer-portal/introduct
 
 ## Training program
 
+This is also another line.
 The starter template contains training exercises which will teach you how to build a developer portal.
 After you start the development server, navigate to the app and follow the instructions to get started with your training.
 
 Redocly commands can be found [here](https://redocly.com/docs/cli/commands/).
+
+This is another line.
+Adding final line.
