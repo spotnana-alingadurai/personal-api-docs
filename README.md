@@ -16,7 +16,7 @@
     yarn install
 
 ## Start development server
-
+A second line
     yarn start
 
 Note: search isn't functional in the development environment.
@@ -33,5 +33,8 @@ Read the [online documentation](https://redoc.ly/docs/developer-portal/introduct
 
 ## Training program
 
+This is also another line.
 The starter template contains training exercises which will teach you how to build a developer portal.
 After you start the development server, navigate to the app and follow the instructions to get started with your training.
+
+This is another line.
